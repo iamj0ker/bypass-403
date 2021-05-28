@@ -32,6 +32,6 @@ echo "  --> ${1}/${2}?"
 curl -k -s -o /dev/null -iL -w "%{http_code}","%{size_download}" $1/$2.html
 echo "  --> ${1}/${2}.html"
 curl -k -s -o /dev/null -iL -w "%{http_code}","%{size_download}" $1/$2/?anything
-echo "  --> ${1}/${2}/?anything"
+echo "  --> ${1}/${2}/?anything
 curl -k -s -o /dev/null -iL -w "%{http_code}","%{size_download}" $1/$2#
 echo "  --> ${1}/${2}#"
