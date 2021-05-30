@@ -9,7 +9,7 @@
 `./bypass-403.sh website-here path-here`
 
 # Features
-- Use 13 known Bypasses for 403 with the help of curl
+- Use 16 known Bypasses for 403 with the help of curl
 
 # Installation
    * `git clone https://github.com/iamj0ker/bypass-403`
@@ -19,3 +19,4 @@
    
 # Contributers
   [remonsec](https://github.com/remonsec)
+  [manpreet](https://github.com/manpreet406)
