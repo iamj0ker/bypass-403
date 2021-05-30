@@ -18,5 +18,5 @@
    * `sudo apt install figlet`  - If you are unable to see the logo as in the screenshot
    
 # Contributers
-  [remonsec](https://github.com/remonsec)
+  [remonsec](https://github.com/remonsec),
   [manpreet](https://github.com/manpreet406)
