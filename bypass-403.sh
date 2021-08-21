@@ -35,6 +35,7 @@ curl -k -s -o /dev/null -iL -w "%{http_code}","%{size_download}" $1/$2/?anything
 echo "  --> ${1}/${2}/?anything"
 curl -k -s -o /dev/null -iL -w "%{http_code}","%{size_download}" $1/$2#
 echo "  --> ${1}/${2}#"
+#updated
 curl -k -s -o /dev/null -iL -w "%{http_code}","%{size_download}" -H "Content-Length:0" -X POST $1/$2
 echo "  --> ${1}/${2} -H Content-Length:0 -X POST"
 curl -k -s -o /dev/null -iL -w "%{http_code}","%{size_download}" $1/$2/*
