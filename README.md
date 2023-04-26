@@ -16,6 +16,7 @@
    * `cd bypass-403`
    * `chmod +x bypass-403.sh`
    * `sudo apt install figlet`  - If you are unable to see the logo as in the screenshot
+   * `sudo apt install jq`      - If you don't have jq installed on your machine
    
 # Contributers
   [remonsec](https://github.com/remonsec),
