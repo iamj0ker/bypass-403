@@ -9,7 +9,7 @@
 `./bypass-403.sh website-here path-here`
 
 # Features
-- Use 24 known Bypasses for 403 with the help of curl
+- Use 62 known Bypasses for 403 with the help of curl
 
 # Installation
    * `git clone https://github.com/iamj0ker/bypass-403`
