@@ -20,6 +20,6 @@
    
 # Contributers
   [remonsec](https://github.com/remonsec),
-  [manpreet](https://github.com/manpreet406)
-  [MayankPandey01](https://github.com/MayankPandey01)
-  [saadibabar](https://github.com/saadibabar)
+  [manpreet](https://github.com/manpreet406),
+  [MayankPandey01](https://github.com/MayankPandey01),
+  [saadibabar](https://github.com/saadibabar).
